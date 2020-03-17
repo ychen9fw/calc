@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="show_history">历史记录</string>
+    <string name="clear_history">清除记录</string>
+    <string name="binary_conversion">进制转换</string>
+    <string name="normal_calc">常规计算</string>
+    <string name="arrow_down">↓↓↓↓</string>
+    <string name="max_number">已超过最大位数（15）</string>
+    <string name="max_number_after_point">"小数点后最大位数为10位"</string>
+    <string name="result_to_big">结果超过最大范围</string>
+    <string name="history_cleared">历史记录已清除！</string>
+    <string name="cant_devide_by_zero">不能除以0！</string>
+
+    <string name="ad_attribution">Ad</string>
+</resources>
